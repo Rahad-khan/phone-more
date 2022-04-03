@@ -9,15 +9,12 @@ const Header = () => {
     <header>
       <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
-          <Link to="/home" className="flex items-center">
-            <img
-              src="/docs/images/logo.svg"
-              className="mr-3 h-6 sm:h-9"
-              alt="Flowbite Logo"
-            />
-            <span className="self-center text-xl font-semibold whitespace-nowrap">
-              Flowbite
-            </span>
+        <Link to="/home" className="flex items-center">
+            <p className="text-2xl font-semibold">Phone 
+              <span className="self-center text-4xl font-semibold whitespace-nowrap text-purple-800">
+                More
+              </span>
+            </p>
           </Link>
           <button onClick={() => setOpen(!open)}
           className="block md:hidden"
@@ -59,14 +56,26 @@ const Header = () => {
               </li>
               <li className="mb-2">
                 <CustomLink
-                  to="/orders">
-                  Orders
+                  to="/reviews">
+                  Review
                 </CustomLink>
               </li>
               <li className="mb-2">
                 <CustomLink
-                  to="/review">
-                  Review
+                  to="/dashboard">
+                  Dashboard
+                </CustomLink>
+              </li>
+              <li className="mb-2">
+                <CustomLink
+                  to="/blogs">
+                  Blogs
+                </CustomLink>
+              </li>
+              <li className="mb-2">
+                <CustomLink
+                  to="/about">
+                  About
                 </CustomLink>
               </li>
             </ul>
