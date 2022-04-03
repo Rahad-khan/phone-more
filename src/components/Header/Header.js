@@ -22,7 +22,7 @@ const Header = () => {
           className="block md:hidden"
           >
             {
-              open ? <ImCross/> : <CgMenu/>
+              open ? <ImCross/> : <CgMenu className="text-2xl font-extraboldbold"/>
             }
           </button>
           <div className={`w-full md:block md:w-auto ${open ? 'block' : 'hidden'}`}>
