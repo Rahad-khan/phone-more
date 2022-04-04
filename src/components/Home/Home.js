@@ -24,7 +24,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className="mt-6">
+      <section className="my-6">
           <h1 className="md:mb-6 text-3xl md:text-4xl text-center font-bold">Customer Review ({firstThreeReview.length})</h1>
           <div className="grid md:grid-cols-3 gap-4">
         {

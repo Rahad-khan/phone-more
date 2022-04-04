@@ -1,44 +1,44 @@
 [
-    {
-      "id": "6249cf52d686c8db89f33f37",
-      "picture": "./images/1.jpg",
-      "rating": 3,
-      "name": "Carrillo Rice",
-      "discription":"The OP 10 Pro only gets 13 hours web browsing and 16 hours video playback. The S22 Ultra gets 17 hours web browsing and 18 hours video playback. So thats 4 hours more on web browsing and 2 hours more on video playback on the S22 Ultra. I know other people do use their phones to make long phone calls but I do no. I probably make a total of 15 minutes worth of phone calls per week so I have no need for 3g talk time numbers. For battery test results, I mainly focus on web browsing and video playback numbers since that is what I primarily do on my phone, not make phone calls....Did you even read what was being said?"
-    },
-    {
-      "id": "6249cf52c9ab2838cf2aa25c",
-      "picture": "./images/2.jpg",
-      "rating": 5,
-      "name": "Marcella Chen",
-      "discription":"There are many work-arounds you can use to acess all of that still...Youtube, for example, just use 'Youtube Vanced', free of ads and can run with the phone locked even (good for listening to music). MicroG is another must have for some apps. Apart from that, I've been using a P40 Pro for a long while now and I don't miss anything at all. Sure, it takes a little more tinkering around to get everything you want the way you want but works!"
-    },
-    {
-      "id": "6249cf52709b734474964591",
-      "picture": "./images/3.jpg",
-      "rating": 3,
-      "name": "Michael Gilbert",
-      "discription":"Everything in the S21 and S22 is equal to or better than the S20, except for the screen resolution. You couldn't pay may to use the old Galaxy S20.I used to upgrade my Galaxy S phones every two years. Now I upgrade every year. Because Samsung makes it so inexpensive to upgrade every year. This year only cost me $325 out of pocket. After trade in, credits, tax, and cash back. And for only $325 I got a 44mm Galaxy Watch 4 and a 256GB S22 unlocked. It was a sweet deal. Much better than what I got for my S21 that cost me $300 for the 256GB S21 unlocked and a few accessories."
-    },
-    {
-      "id": "6249cf528bc07e71c0efb3e8",
-      "picture": "./images/4.jpg",
-      "rating": 4,
-      "name": "Willa Underwood",
-      "discription":"You get better chip, max charging speed brick in the box and better SAR values on 'S' compared to original A52 5G. Overpriced? depending on particular price and date you buy. Mine's definitely not. Forget it and judge by your price. Good selfie cam... well possibly you'd find better if that's important for you. Don't expect to get it all perfect if you pay for midrange. Matter of choice."
-    },
-    {
-      "id": "6249cf52fd2091dd933d2597",
-      "picture": "./images/5.jpg",
-      "rating": 5,
-      "name": "Valeria Stein",
-      "discription":"I've owned both the F3 and recently this A52s. My comparisons... A52s is better feel in hand. A52s better cameras. The Samsung has microsd, headphone jack. The Poco has a better screen. Both screens are excellent for the price tho. The Poco has faster charging but the Samsung's battery lasts longer. The 870 is faster than the 778, but it's really not noticeable on my end. Samsung offering 4 years of updates is really insignificant. Everyone that's on this website doesn't keep a phone for that long. Damn, I get a new phone every 6 months, but I might just keep this Samsung for awhile. I've been strictly Poco or Realme for the last few years. Good job Samsung"
-    },
-    {
-      "id": "6249cf52fa4c7d6a3d4fddfd",
-      "picture": "./images/6.jpg",
-      "rating": 3,
-      "name": "Jenna Santos",
-      "discription":"Samsung S-series were supose to be flagships that care more about specs than battery. If you think this series had bad batter you never had S6 when came out. Dude even with new battery when came out you had the charge him at lest 2 times on a day , most of days even 3 times. That was a mistake but still it was worth it for that display quality at that time.Now if you whant battery you can go to A or M series. S-series only ultra is the top dog Display quality , S21 , S22 plus or simple had only mid range display qualtiy.To use a big 6 inch screen with only 1080p straight to you face you can see that look premium. I don t care about a 15$ charger. I care about the screen .Why ? Because 99% perfect of the phone is screen , so probably i care about how much quality it has.This specs should be for a FE Edition or cheaper version , not for the sow call flagship.8gb ram and FHD 120hz screen chinse brand had on 300$."
-    }
-  ]
+  {
+    "id": "6249cf52d686c8db89f33f37",
+    "picture": "./images/1.jpg",
+    "rating": 3,
+    "name": "Carrillo Rice",
+    "discription": "The OP 10 Pro only gets 13 hours web browsing and 16 hours video playback. The S22 Ultra gets 17 hours web browsing and 18 hours video playback. So thats 4 hours more on web browsing and 2 hours more on video playback on the S22 Ultra. I know other people do use their phones to make long phone calls but I do no. I probably make a total of 15 minutes worth of phone calls per week so I have no need for 3g talk time numbers. For battery test results, I mainly focus on web browsing and video playback numbers since that is what I primarily do on my phone, not make phone calls....Did you even read what was being said?"
+  },
+  {
+    "id": "6249cf52c9ab2838cf2aa25c",
+    "picture": "./images/2.jpg",
+    "rating": 5,
+    "name": "Marcella Chen",
+    "discription": "There are many work-arounds you can use to acess all of that still...Youtube, for example, just use 'Youtube Vanced', free of ads and can run with the phone locked even (good for listening to music). MicroG is another must have for some apps. Apart from that, I've been using a P40 Pro for a long while now and I don't miss anything at all. Sure, it takes a little more tinkering around to get everything you want the way you want but works!"
+  },
+  {
+    "id": "6249cf52709b734474964591",
+    "picture": "./images/3.jpg",
+    "rating": 3,
+    "name": "Michael Gilbert",
+    "discription": "Everything in the S21 and S22 is equal to or better than the S20, except for the screen resolution. You couldn't pay may to use the old Galaxy S20.I used to upgrade my Galaxy S phones every two years. Now I upgrade every year. Because Samsung makes it so inexpensive to upgrade every year. This year only cost me $325 out of pocket. After trade in, credits, tax, and cash back. And for only $325 I got a 44mm Galaxy Watch 4 and a 256GB S22 unlocked. It was a sweet deal. Much better than what I got for my S21 that cost me $300 for the 256GB S21 unlocked and a few accessories."
+  },
+  {
+    "id": "6249cf528bc07e71c0efb3e8",
+    "picture": "./images/4.jpg",
+    "rating": 4,
+    "name": "Willa Underwood",
+    "discription": "You get better chip, max charging speed brick in the box and better SAR values on 'S' compared to original A52 5G. Overpriced? depending on particular price and date you buy. Mine's definitely not. Forget it and judge by your price. Good selfie cam... well possibly you'd find better if that's important for you. Don't expect to get it all perfect if you pay for midrange. Matter of choice."
+  },
+  {
+    "id": "6249cf52fd2091dd933d2597",
+    "picture": "./images/5.jpg",
+    "rating": 5,
+    "name": "Valeria Stein",
+    "discription": "I've owned both the F3 and recently this A52s. My comparisons... A52s is better feel in hand. A52s better cameras. The Samsung has microsd, headphone jack. The Poco has a better screen. Both screens are excellent for the price tho. The Poco has faster charging but the Samsung's battery lasts longer. The 870 is faster than the 778, but it's really not noticeable on my end. Samsung offering 4 years of updates is really insignificant. Everyone that's on this website doesn't keep a phone for that long. Damn, I get a new phone every 6 months, but I might just keep this Samsung for awhile. I've been strictly Poco or Realme for the last few years. Good job Samsung"
+  },
+  {
+    "id": "6249cf52fa4c7d6a3d4fddfd",
+    "picture": "./images/6.jpg",
+    "rating": 3,
+    "name": "Jenna Santos",
+    "discription": "Samsung S-series were supose to be flagships that care more about specs than battery. If you think this series had bad batter you never had S6 when came out. Dude even with new battery when came out you had the charge him at lest 2 times on a day , most of days even 3 times. That was a mistake but still it was worth it for that display quality at that time.Now if you whant battery you can go to A or M series. S-series only ultra is the top dog Display quality , S21 , S22 plus or simple had only mid range display qualtiy.To use a big 6 inch screen with only 1080p straight to you face you can see that look premium. I don t care about a 15$ charger."
+  }
+]
