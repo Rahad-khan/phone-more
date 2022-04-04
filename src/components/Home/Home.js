@@ -5,7 +5,7 @@ import ReviewCard from "../ReviewCard/ReviewCard";
 
 const Home = () => {
     const [reviews, setReviews]  = UseReview();
-    const firstThreeReview = reviews.slice(0,3);
+    const firstThreeReview = reviews.slice(-3);
   return (
     <main>
       {/* Hero Area */}
