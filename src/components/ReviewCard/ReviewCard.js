@@ -16,7 +16,7 @@ const ReviewCard = ({ review }) => {
       <div>
         <h2 className="text-indigo-500 text-3xl font-semibold">{name}</h2>
         <div className="flex items-center">
-          <p>Rating : </p>
+          <p className="flex items-center">Rating : 
           {
             <Rating
               initialRating={rating}
@@ -24,7 +24,7 @@ const ReviewCard = ({ review }) => {
               fullSymbol={<AiTwotoneStar style={{ color: "goldenrod" }} />}
               readonly
             ></Rating>
-          }
+          }</p>
         </div>
         <p className="mt-2 text-gray-600">{discription}</p>
       </div>

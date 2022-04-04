@@ -54,8 +54,8 @@ const Header = () => {
               </li>
               <li className="mb-2">
                 <CustomLink
-                  to="/about">
-                  About
+                  to="/contact">
+                  Contact
                 </CustomLink>
               </li>
             </ul>

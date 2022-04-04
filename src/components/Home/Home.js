@@ -12,20 +12,23 @@ const Home = () => {
       {/* Hero Area */}
       <section>
         <div className="flex flex-col md:flex-row justify-between items-center md:my-5">
-          <div className="my-5 md:my-0 text-3xl md:text-6xl font-bold">
-            <h1 className="text-orange-700">YOUR NEXT PHONE</h1>
-            <h1>YOUR BEST PHONE</h1>
+          <div className="my-5">
+            <h1 className="text-blue-500 text-3xl md:text-6xl font-bold">Your Next Phone</h1>
+            <h1 className="text-3xl md:text-6xl font-bold">Your New Superpower</h1>
+            <p className="text-xl md:text-2xl text-blue-700 font-semibold mt-8">Oh. So. Pro. Love the power.
+Love the price.</p>
+            
           </div>
           <div className="flex justify-center">
             <img
               className="w-3/6 md:w-5/6"
               src={apple}
-              alt=""
+              alt="apple-phone"
             />
           </div>
         </div>
       </section>
-      <section className="my-6">
+      <section className="my-6 md:my-20">
           <h1 className="md:mb-6 text-3xl md:text-4xl text-center font-bold">Customer Review ({firstThreeReview.length})</h1>
           <div className="grid md:grid-cols-3 gap-4">
         {
