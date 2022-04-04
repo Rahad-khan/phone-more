@@ -4,10 +4,6 @@ import {
   Legend,
   Line,
   LineChart,
-  Pie,
-  PieChart,
-  Sector,
-  Cell,
   Tooltip,
   XAxis,
   YAxis,
@@ -26,13 +22,13 @@ const Dashboard = () => {
   }, []);
   console.log(data);
   return (
-    <div>
+    <div className="grid grid-cols-2 gap-4">
       <div>
-        <h1 className="text-2xl text-blue-600 font-semibold">
+        <h1 className="text-2xl text-center mb-6 text-blue-600 font-semibold">
           Month Wise Sell
         </h1>
         <LineChart
-          width={730}
+          width={630}
           height={250}
           data={data}
           margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
@@ -46,11 +42,11 @@ const Dashboard = () => {
         </LineChart>
       </div>
       <div>
-        <h1 className="text-2xl text-blue-600 font-semibold">
+        <h1 className="text-2xl text-center mb-6 text-blue-600 font-semibold">
           Investment VS Revenue
         </h1>
         <AreaChart
-          width={730}
+          width={630}
           height={250}
           data={data}
           margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
@@ -86,10 +82,10 @@ const Dashboard = () => {
         </AreaChart>
       </div>
       <div>
-        <h1 className="text-2xl text-blue-600 font-semibold">
-          Month Wise Sell
+        <h1 className="text-2xl text-center mb-6 text-blue-600 font-semibold">
+        Investment VS Revenue
         </h1>
-        <BarChart width={730} height={250} data={data}>
+        <BarChart width={630} height={250} data={data}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" />
           <YAxis />

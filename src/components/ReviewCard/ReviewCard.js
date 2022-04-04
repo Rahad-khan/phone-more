@@ -1,5 +1,6 @@
 import React from "react";
-import {AiTwotoneStar} from 'react-icons/ai'
+import { AiTwotoneStar } from "react-icons/ai";
+import Rating from "react-rating";
 
 const ReviewCard = ({ review }) => {
   const { name, picture, rating, discription } = review;
@@ -14,7 +15,17 @@ const ReviewCard = ({ review }) => {
       </div>
       <div>
         <h2 className="text-indigo-500 text-3xl font-semibold">{name}</h2>
-        <p className="flex items-center">Rating : {rating} <AiTwotoneStar className="text-yellow-500"/> </p>
+        <div className="flex items-center">
+          <p>Rating : </p>
+          {
+            <Rating
+              initialRating={rating}
+              emptySymbol={<AiTwotoneStar />}
+              fullSymbol={<AiTwotoneStar style={{ color: "goldenrod" }} />}
+              readonly
+            ></Rating>
+          }
+        </div>
         <p className="mt-2 text-gray-600">{discription}</p>
       </div>
     </div>

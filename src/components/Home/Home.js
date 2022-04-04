@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import UseReview from "../../Hooks/ReviewHook/UseReview";
 import ReviewCard from "../ReviewCard/ReviewCard";
+import apple from '../../image/apple.jpg'
 
 const Home = () => {
     const [reviews, setReviews]  = UseReview();
@@ -18,7 +19,7 @@ const Home = () => {
           <div className="flex justify-center">
             <img
               className="w-3/6 md:w-5/6"
-              src={require("../../image/apple.jpg")}
+              src={apple}
               alt=""
             />
           </div>
