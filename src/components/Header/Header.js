@@ -12,8 +12,8 @@ const Header = () => {
       <nav className="bg-white border-gray-200 sm:py-2.5 rounded">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
         <Link to="/home" className="flex items-center">
-            <p className="text-2xl font-semibold">Phone 
-              <span className="self-center text-4xl font-semibold whitespace-nowrap text-purple-800">
+            <p className="text-4xl font-semibold">Phone 
+              <span className="whitespace-nowrap text-purple-800">
                 More
               </span>
             </p>
