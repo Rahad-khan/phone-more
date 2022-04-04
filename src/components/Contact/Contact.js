@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <div className='flex items-center justify-center'>
-      <form className="flex w-full max-w-lg space-x-3">
+      <form className="flex w-full max-w-lg space-x-3 drop-shadow-lg">
         <div className="w-full max-w-2xl px-5 py-10 m-auto mt-10 bg-white rounded-lg shadow dark:bg-gray-800">
           <div className="mb-6 text-3xl font-light text-center text-gray-800 dark:text-white">
             Contact us !

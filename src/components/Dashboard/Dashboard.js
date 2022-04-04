@@ -23,7 +23,7 @@ const Dashboard = () => {
       .then((data) => setData(data));
   }, []);
   return (
-    <div className="grid grid-cols-2 gap-4">
+    <div className="grid md:grid-cols-2 gap-4 my-8">
       <div>
         <h1 className="text-2xl text-center mb-6 text-blue-600 font-semibold">
           Month Wise Sell
