@@ -39,7 +39,7 @@ Love the price.</p>
         }
           </div>
           <Link to='/reviews'>
-          <button className="block mt-4 w-2/5 mx-auto bg-sky-500 hover:bg-sky-700 px-5 py-2 text-lg leading-5 rounded-full font-semibold text-white">See All Reviews</button>
+          <button className="block mt-4 md:w-2/5 mx-auto bg-sky-500 hover:bg-sky-700 px-5 py-2 text-lg leading-5 rounded-full font-semibold text-white">See All Reviews</button>
           </Link>
       </section>
     </main>
