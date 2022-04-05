@@ -16,6 +16,7 @@ const ReviewCard = ({ review }) => {
       <div>
         <h2 className="text-indigo-500 text-2xl font-semibold">{name}</h2>
         <div className="flex items-center">Rating : 
+        <div className="ml-1 mt-1">
           {
             <Rating
               
@@ -25,6 +26,7 @@ const ReviewCard = ({ review }) => {
               readonly
             ></Rating>
           }
+        </div>
         </div>
         <p className="mt-2 text-gray-600">{discription}</p>
       </div>
